@@ -3,8 +3,8 @@
 **Flask** starter styled with **[Argon Dashboard PRO](https://appseed.us/product/argon-dashboard2-pro/flask/)**, a premium `Bootstrap 5` KIT from [Creative-Tim](https://www.creative-tim.com?AFFILIATE=128200).
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
-- 👉 [Flask Argon 2 PRO](https://appseed.us/product/argon-dashboard2-pro/flask/) - Product page
-- 👉 [Flask Argon2 PRO](https://flask-argon-dash2-pro.onrender.com/) - `LIVE Demo` on Render
+- 👉 [Flask Argon 2 PRO](https://appseed.us/product/argon-dashboard2-pro/flask/) - `Product Page`
+- 👉 [Flask Argon2 PRO](https://flask-argon-dash2-pro.onrender.com/) - `LIVE Demo`
 
 <br />
 
