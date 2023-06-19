@@ -1,4 +1,4 @@
-# [Flask Argon Dash 2 PRO](https://appseed.us/product/argon-dashboard2-pro/flask/)
+# [Flask Argon2 Dashboard PRO](https://appseed.us/product/argon-dashboard2-pro/flask/)
 
 **Flask** starter styled with **[Argon Dashboard PRO](https://appseed.us/product/argon-dashboard2-pro/flask/)**, a premium `Bootstrap 5` KIT from [Creative-Tim](https://www.creative-tim.com?AFFILIATE=128200).
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
@@ -20,7 +20,7 @@ The product is designed to deliver the best possible user experience with highly
 - 🚀 `Deployment` 
   - `CI/CD` flow via `Render`
 
-![Argon Dashboard 2 PRO - Charts Page (Premium Bootstrap 5 Design)](https://user-images.githubusercontent.com/51070104/211157993-fd439b20-6117-4e02-b98c-9123866660e2.jpg)
+![Argon Dashboard 2 PRO - Charts Page (Premium Bootstrap 5 Design)](https://github.com/app-generator/flask-argon-dashboard2-pro/assets/51070104/168056b7-0886-44ca-8bda-0ae8e76d9076)
 
 <br />
 
@@ -151,4 +151,4 @@ The project is coded using blueprints, app factory pattern, dual configuration p
 <br />
 
 ---
-[Flask Argon Dash 2 PRO](https://appseed.us/product/argon-dashboard2-pro/flask/) - Provided by **[AppSeed](https://appseed.us/app-generator)**.
+[Flask Argon2 Dashboard PRO](https://appseed.us/product/argon-dashboard2-pro/flask/) - Provided by **[AppSeed](https://appseed.us/app-generator)**.
