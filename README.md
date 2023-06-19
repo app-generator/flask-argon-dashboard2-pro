@@ -15,7 +15,7 @@ The product is designed to deliver the best possible user experience with highly
 - ✅ `Database`: `SQLite`, MySql
   - Silent fallback to `SQLite`
 - ✅ `DB Tools`: SQLAlchemy ORM, `Flask-Migrate`
-- ✅ `Authentication`, Session Based, `OAuth` via **Github**
+- ✅ Session Based `Authentication`, Change Password 
 - ✅ Docker, `Flask-Minify` (page compression)
 - 🚀 `Deployment` 
   - `CI/CD` flow via `Render`
@@ -26,11 +26,11 @@ The product is designed to deliver the best possible user experience with highly
 
 ## Start in `Docker`
 
-> 👉 **Step 1** - Download & Unzip the code (`requires a purchase` from the official [product](https://appseed.us/product/material-dashboard2-pro/flask/) page)
+> 👉 **Step 1** - Download & Unzip the code (requires a purchase from the official [product](https://appseed.us/product/argon-dashboard2-pro/flask/) page)
 
 ```bash
-$ unzip flask-material-dashboard2-pro.zip
-$ cd flask-material-dashboard2-pro
+$ unzip flask-argon-dashboard2-pro.zip
+$ cd flask-argon-dashboard2-pro
 ```
 
 <br />
@@ -47,11 +47,11 @@ Visit `http://localhost:5085` in your browser. The app should be up & running.
 
 ## Manual Build
 
-> 👉 **Step 1** - Download & Unzip the code (`requires a purchase` from the official [product](https://appseed.us/product/material-dashboard2-pro/flask/) page)
+> 👉 **Step 1** - Download & Unzip the code (requires a purchase from the official [product](https://appseed.us/product/argon-dashboard2-pro/flask/) page)
 
 ```bash
-$ unzip flask-material-dashboard2-pro.zip
-$ cd flask-material-dashboard2-pro
+$ unzip flask-argon-dashboard2-pro.zip
+$ cd flask-argon-dashboard2-pro
 ```
 
 <br />
@@ -93,7 +93,7 @@ At this point, the app runs at `http://127.0.0.1:5000/`.
 
 ## ✨ Code-base structure
 
-The project is coded using blueprints, app factory pattern, dual configuration profile (development and production) and an intuitive structure presented bellow:
+The project is coded using blueprints, app factory pattern, dual configuration profile (development and production), and an intuitive structure presented below:
 
 ```bash
 < PROJECT ROOT >
